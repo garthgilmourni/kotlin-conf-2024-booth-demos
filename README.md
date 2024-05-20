@@ -28,6 +28,12 @@ All projects are standalone, so open the project folder that interests you in th
 
 The idea is to use these projects as starting points for exploring the [Ktor](https://ktor.io/), [Dataframe](https://github.com/Kotlin/dataframe), and [Compose Multiplatform](https://www.jetbrains.com/lp/compose-multiplatform/) libraries. Plus of course the [IntelliJ IDEA IDE](https://www.jetbrains.com/idea/), [Fleet](https://www.jetbrains.com/fleet/) code editor, [AI Assistant](https://www.jetbrains.com/ai/), and [Notebook](https://plugins.jetbrains.com/plugin/16340-kotlin-notebook) plugin.
 
+Much more comprehensive samples for the above can be found here:
+
+* [Sample applications for Ktor](https://github.com/ktorio/ktor-samples)
+* [Sample applications for Compose Multiplatform](https://github.com/JetBrains/compose-multiplatform/blob/master/examples/README.md)
+* [Cross platform projects created with KMP](https://www.jetbrains.com/help/kotlin-multiplatform-dev/multiplatform-samples.html)
+
 Note you can create your own projects (ourside the IDE) via the following wizards:
 
 * The [Ktor Project Generator](https://start.ktor.io/#/settings)
